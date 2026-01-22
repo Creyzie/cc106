@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Student Information Viewer</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="top-buttons">
+      <div class="pill">ABOUT</div>
+      <div class="pill">FREE TO VIEW</div>
+    </div>
+
+    <div class="welcome-box">
+      <div class="icon"></div>
+      <div class="welcome-text">
+        <h1>Welcome to</h1>
+        <p>Student Information Viewer</p>
+      </div>
+    </div>
+
+    <div class="bottom">
+      <div class="about-box">
+        <div class="about-title">About</div>
+        <div class="about-text">
+          Student Information Viewer is a simple and user-friendly system designed to
+          display and manage student information efficiently. It helps users easily
+          view important student details such as basic profiles and other relevant
+          data in an organized way. The goal of this system is to make accessing
+          student information faster, clearer, and more convenient for users.
+        </div>
+      </div>
+
+      <div class="start">
+        CLICK<br>
+        HERE<br>
+        TO<br>
+        START<br>
+        TO<br>
+        VIEW<br>
+        <span class="arrow">→</span>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
